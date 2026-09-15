@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-    string namaFilm = "Avengers: Secret Wars";
+    string namaFilm = "Avengers: Doomsday";
     int hargaTiket = 50000;
     int jumlahBeli = 3;
     int totalHarga;
